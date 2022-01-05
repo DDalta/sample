@@ -1,1 +1,1 @@
-console.log("HELLO WORLD!");
+console.log("JAVASCRIPT REALLY BE A BRUH MOMENT");
